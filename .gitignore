@@ -1,1 +1,13 @@
 build
+/cmake-build-debug/
+# Local configuration
+.cargo/config.toml
+.idea/
+
+Cargo.lock
+.DS_Store
+target/
+*.csv
+*.zip
+index.d.ts
+index.node

@@ -1,1 +1,1 @@
-@load ./main
+@load ./index.js

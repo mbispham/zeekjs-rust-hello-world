@@ -1,0 +1,12 @@
+{
+  "name": "zeekjs-rust-hello-world",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "napi build --release",
+    "build:debug": "napi build"
+  },
+  "main": "scripts/index.js",
+  "devDependencies": {
+    "@napi-rs/cli": "^2.18.1"
+  }
+}
