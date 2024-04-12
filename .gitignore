@@ -11,3 +11,4 @@ target/
 *.zip
 index.d.ts
 index.node
+/node_modules/
